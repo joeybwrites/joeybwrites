@@ -26,6 +26,10 @@ Most recently at Meta Reality Labs, where I owned documentation across Platform 
 
 This profile is a workbench for the systems side of the work: AI assistant architecture, agent workflows, and context engineering. **Docs Systems Lab** (linked above) is the first public piece, a runnable demonstration of documentation operations with quality gates, retrieval-lift evaluation, and a public/private boundary. Next: public-safe writeups of **Pantheon**, a personal AI-assistant framework using file-based memory, behavioral roles, and mechanical enforcement gates (semaphores, write-ahead logs, circuit breakers) for reliable long-running AI workflows.
 
+## Also
+
+- **WORDFALL** — a typing arcade game built in TypeScript because I've always liked typing games. [Play it](https://joeybwrites.github.io/wordfall/) · [source](https://github.com/joeybwrites/wordfall)
+
 ---
 
 ## Contact
